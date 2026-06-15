@@ -1,0 +1,8 @@
+{
+  "name": "Fahim TV",
+  "description": "Premium IPTV streaming application with live TV channels and AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
